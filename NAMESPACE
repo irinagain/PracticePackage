@@ -2,3 +2,5 @@
 
 export(new_function1)
 export(new_function2)
+export(new_metric2_rate2)
+export(new_metric_rate1)
