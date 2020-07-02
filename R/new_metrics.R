@@ -23,3 +23,7 @@ new_function1 <- function(x){
 new_function2 <- function(x){
   sd(x)
 }
+
+new_function3 <- function(x){
+  sd(x)
+}
